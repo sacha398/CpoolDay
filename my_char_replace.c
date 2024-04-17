@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 void print_char(char c);
 
 char *my_replace_char(char *origin, char toFind, char toReplace){
